@@ -14,5 +14,8 @@ LQTYUSDT_klines_1680438347000_1682777999000.csv
 timestamps_blocktime.csv
 timestamps_blocktime2.csv
 node_modules
+google-cloud-sdk
+notebooks/LQTYETH
+notebooks/USDCETH
 
 *.pyc
