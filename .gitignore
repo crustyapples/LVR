@@ -5,3 +5,13 @@ notebooks/LQTYETH
 notebooks/USDCETH
 
 *.pyc
+notebooks/ethusdc_volatility.csv
+notebooks/lqty_weth_366096.csv
+notebooks/lqty_weth_453456.csv
+notebooks/lqty_weth_506262.csv
+notebooks/lqtyeth_range_position.csv
+notebooks/lqtyeth_volatility.csv
+notebooks/usdc_weth_250274.csv
+notebooks/usdc_weth_515539.csv
+notebooks/usdc_weth_520645.csv
+notebooks/usdceth_range_position.csv
