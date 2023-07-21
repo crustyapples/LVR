@@ -45,3 +45,5 @@ $P$ : Current Price
 | [Theoretical LVR](https://github.com/crustyapples/LVR/blob/master/notebooks/Theoretical_LVR.ipynb)     | Fetching On-Chain and External Pricing Data for Uniswap V3 Vaults       |
 | [LQTY/ETH 0.3%](https://github.com/crustyapples/LVR/blob/master/notebooks/LVR_Comparison_LQTYETH.ipynb)   | Visualising Data for LQTY/ETH 0.3% Pair        |
 | [USDC/ETH 0.05%](https://github.com/crustyapples/LVR/blob/master/notebooks/LVR_Comparison_USDCETH.ipynb)   | Visualising Data for USDC/ETH 0.05% Pair        |
+| [USDC/ETH 0.05%](https://htmlpreview.github.io/?https://github.com/crustyapples/LVR/blob/master/notebooks/LQTYETH.html)   | Interactive Chart LQTY/ETH 0.3% Pair        |
+| [USDC/ETH 0.05%](https://htmlpreview.github.io/?https://github.com/crustyapples/LVR/blob/master/notebooks/USDCETH.html)   | Interactive Chart USDC/ETH 0.05% Pair        |
