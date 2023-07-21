@@ -40,7 +40,7 @@ $P$ : Current Price
 
 # Files
 
-| File      | Remarks |
+| Link      | Remarks |
 | ----------- | ----------- |
 | [Theoretical LVR](https://github.com/crustyapples/LVR/blob/master/notebooks/Theoretical_LVR.ipynb)     | Fetching On-Chain and External Pricing Data for Uniswap V3 Vaults       |
 | [LQTY/ETH 0.3%](https://github.com/crustyapples/LVR/blob/master/notebooks/LVR_Comparison_LQTYETH.ipynb)   | Visualising Data for LQTY/ETH 0.3% Pair        |
