@@ -3,3 +3,4 @@ python-binance
 matplotlib
 plotly
 web3
+pandas==1.4.2
